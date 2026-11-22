@@ -26,6 +26,8 @@ cd java-project-lvl1
 https://asciinema.org/connect/2bf894cf-7244-4779-9d43-b98b682bcb29
 https://asciinema.org/connect/2bf894cf-7244-4779-9d43-b98b682bcb29
 https://asciinema.org/connect/2bf894cf-7244-4779-9d43-b98b682bcb29
+https://asciinema.org/connect/2bf894cf-7244-4779-9d43-b98b682bcb29
+
 
 ---
 
