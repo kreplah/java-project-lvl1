@@ -23,8 +23,12 @@ cd java-project-lvl1
 ## Использование
 
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
-https://asciinema.org/connect/2bf894cf-7244-4779-9d43-b98b682bcb29 https://asciinema.org/connect/2bf894cf-7244-4779-9d43-b98b682bcb29 https://asciinema.org/connect/2bf894cf-7244-4779-9d43-b98b682bcb29 https://asciinema.org/connect/2bf894cf-7244-4779-9d43-b98b682bcb29
-https://asciinema.org/connect/2bf894cf-7244-4779-9d43-b98b682bcb29
+https://asciinema.org/a/nB0D65dMwCmi6Q8s
+https://asciinema.org/a/XQhsgXOYorgV6dpD
+https://asciinema.org/a/FzFFeuDY5QyjvHWv
+https://asciinema.org/a/KcpZk77SwnqybbLt
+
+https://asciinema.org/a/2dIL27JBbBCRW0qT
 
 
 ---
