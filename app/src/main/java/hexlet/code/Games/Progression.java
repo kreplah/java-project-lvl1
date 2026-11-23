@@ -1,7 +1,6 @@
 package hexlet.code.Games;
 
 import hexlet.code.Engine;
-import java.util.Arrays;
 
 public class Progression {
 
@@ -40,7 +39,8 @@ public class Progression {
             var hideNumberIndex = (int) (int) (Math.random() * progressionArray.length);
             var hudeNumber = progressionArray[hideNumberIndex];
             progressionArray[hideNumberIndex] = "..";
-            question = "Question: " + Arrays.toString(progressionArray);
+            String questionProgression = String.join(" ", progressionArray);
+            question = "Question: " + questionProgression;
             // заполнение массива элементами вида [вопрос, правильный ответ]
             rounds[i][0] = question;
             rounds[i][1] = String.valueOf(hudeNumber);
