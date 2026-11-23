@@ -1,7 +1,6 @@
 package hexlet.code.Games;
 
 import hexlet.code.Engine;
-
 import java.util.Arrays;
 
 public class Progression {
